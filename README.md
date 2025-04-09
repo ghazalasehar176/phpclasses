@@ -1,2 +1,2 @@
 # phpclasses
-php class
+my php class
